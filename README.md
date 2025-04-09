@@ -30,7 +30,7 @@
 
 ###
 
-<p style="font-size: 24px; font-weight: bold;">📊 Stats</p>
+<h2 align="left">📊 Stats</h2>
 <hr/>
 
 <div align="center">
@@ -38,12 +38,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruizsenior&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img style="margin-left: 20px; border-radius: 10px;" align="right" height="250"  src="https://media.tenor.com/O3w6CwTqrs8AAAAi/peach-goma.gif"  />
+<img align="right" height="250"  src="https://media.tenor.com/O3w6CwTqrs8AAAAi/peach-goma.gif"  />
 
 ###
 
-<p style="font-size: 24px; font-weight: bold;">🛠️ Languages and Tools</p>
-<hr/>
+<h2 align="left">🛠️ Languages and Tools</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"  width="40" alt="javascript logo"  />
   <img width="12" />
@@ -76,8 +75,7 @@
 
 ###
 
-<p style="font-size: 24px; font-weight: bold; color: red">🤝 Let's Connect</p>
-<hr/>
+<h2 align="left">🤝 Let's Connect</h2>
 <div align="left">
   <a href="discordapp.com/users/311271847125843980" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
