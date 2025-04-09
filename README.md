@@ -5,13 +5,10 @@
 <h2 align="center">A passionate web developer from Colombia</h2>
 
 
-
 <h4 align="left">🎓 I'm a final-year Systems Engineering student at the Technological University of Pereira (UTP), passionate about technology, problem-solving, and continuous learning.</h4>
 
 
-
 <h4 align="left">🔭 I have worked on projects like <a href="https://github.com/Areshkew/humble-project-ui" target="_blank"> LibHub </a></h4>
-
 
 
 <h4 align="left">💻 I'm especially interested in</h4>
@@ -27,7 +24,6 @@
   <li>Frontend frameworks like React, Next.js, and Angular</li>
 </ul>
 
-
 ###
 
 <h2 align="left">📊 Stats</h2>
@@ -42,7 +38,7 @@
 
 ###
 
-<h2 align="left">🛠️ Languages and Tools</h2>
+<h2  align="left">🛠️ Languages and Tools</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"  width="40" alt="javascript logo"  />
   <img width="12" />
