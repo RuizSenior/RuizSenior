@@ -76,7 +76,7 @@
 
 ###
 
-<p style="font-size: 24px; font-weight: bold;">🤝 Let's Connect</p>
+<p style="font-size: 24px; font-weight: bold; color: red">🤝 Let's Connect</p>
 <hr/>
 <div align="left">
   <a href="discordapp.com/users/311271847125843980" target="_blank">
