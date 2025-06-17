@@ -8,7 +8,14 @@
 <h4 align="left">🎓 I'm a final-year Systems Engineering student at the Technological University of Pereira (UTP), passionate about technology, problem-solving, and continuous learning.</h4>
 
 
-<h4 align="left">🔭 I have worked on projects like <a href="https://github.com/Areshkew/humble-project-ui" target="_blank"> LibHub </a></h4>
+<h4 align="left">
+  🔭 I have worked on projects like 
+  <a href="https://github.com/Areshkew/humble-project-ui" target="_blank">LibHub</a> 
+  and 
+  <a href="https://github.com/FILSoL-Pereira/website" target="_blank">FLISoL Pereira Website</a>
+  (<a href="https://flisolpereira.vercel.app/" target="_blank">live demo</a>)
+</h4>
+
 
 
 <h4 align="left">💻 I'm especially interested in</h4>
