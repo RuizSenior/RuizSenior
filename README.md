@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian Ruiz</h1>
 
 
-
 <h2 align="center">A passionate web developer from Colombia</h2>
 
 
